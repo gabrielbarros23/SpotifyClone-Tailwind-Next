@@ -18,7 +18,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd SpotifyClone-Tailwind-Next
 ```
 
 Instale as dependências
