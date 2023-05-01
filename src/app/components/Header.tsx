@@ -18,7 +18,6 @@ export function Header() {
 
   return (
     <div className="flex items-center justify-between ">
-      <p>Esse projeto é a minha primeira experencia eu fiz junto </p>
       <div className="flex gap-3">
         <button className="rounded-full bg-black/40 p-1">
           <ChevronLeft />
