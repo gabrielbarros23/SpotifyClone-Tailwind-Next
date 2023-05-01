@@ -12,7 +12,7 @@ Video: https://www.youtube.com/watch?v=YVI-q3idGiM&ab_channel=Rocketseat
 Clone o projeto
 
 ```bash
-  git clone https://github.com/gabrielbarros23?tab=repositories
+  git clone https://github.com/gabrielbarros23/SpotifyClone-Tailwind-Next
 ```
 
 Entre no diretório do projeto
