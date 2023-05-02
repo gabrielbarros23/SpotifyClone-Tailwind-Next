@@ -1,7 +1,7 @@
 
 ## Spotify Clone
 
-Esse projeto é uma Landing Page do Spotify. é a minha primeira experência com nextjs, tailwind e typescript. eu fiz junto com o video do diego da rocketseat.
+Esse projeto é uma Landing Page do Spotify. é a minha primeira experiência com nextjs, tailwind e typescript. eu fiz junto com o video do diego da rocketseat.
 
 Video: https://www.youtube.com/watch?v=YVI-q3idGiM&ab_channel=Rocketseat
 ## Preview
